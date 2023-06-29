@@ -1,0 +1,1 @@
+Project to practice basics of HTML, Git and Github. 
